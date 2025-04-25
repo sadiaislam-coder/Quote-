@@ -59,10 +59,10 @@
 <body>
 
   <div class="card">
-    <h1>Fuel Me with good Vibes</h1>
+    <h1>𝑭𝒖𝒆𝒍 𝑴𝒆 𝒘𝒊𝒕𝒉 𝒈𝒐𝒐𝒅 𝑽𝒊𝒃𝒆𝒔😇</h1>
     <p id="quote">Click the button to get inspired!</p>
     <p id="author"></p>
-    <button onclick="generateQuote(); playAudio()">🍁Inspire Me🍁</button>
+    <button onclick="generateQuote(); playAudio()">🍁I͜͡n͜͡s͜͡p͜͡i͜͡r͜͡e͜͡ M͜͡e͜͡🍁</button>
   </div>
 
   <!-- Soothing background music -->
